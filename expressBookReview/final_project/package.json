@@ -1,0 +1,25 @@
+{
+  "name": "expressbookreview",
+  "version": "1.0.0",
+  "description": "Server-side Online Book Review Application using Node.js and Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "jwt",
+    "rest-api",
+    "axios"
+  ],
+  "author": "Akash Patel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
